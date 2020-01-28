@@ -3,7 +3,7 @@
 
 Objetivo principal do projeto é que o usuário possa ter acesso fácil as noticias mais atuais do momento em cada categorias, monstrando também as nóticias que estão causando mais impacto no momento - principais notícias -.
 
-##Screenshot
+## Screenshot
 <table>
   <tr>
     <td>
